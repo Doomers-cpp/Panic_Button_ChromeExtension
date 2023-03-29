@@ -5,10 +5,10 @@ Panic Button is your digital superhero that swoops in to save the day when you n
 
 Here's how Panic Button - The Ultimate "Mom's Coming!" Chrome Extension works:
 
-1)Press the secret keyboard shortcut (Ctrl+Shift+Z) to activate the Panic Button!
-2)Watch in awe as your browsing history from the past 24 hours vanishes into thin air.
-3)Gasp as all your open tabs disappear faster than you can say "I wasn't doing anything!"
-4)Be amazed when a predetermined (and totally innocent) tab pops up, making it look like you were doing something entirely different.
+1) Press the secret keyboard shortcut (Ctrl+Shift+Z) to activate the Panic Button!
+2) Watch in awe as your browsing history from the past 24 hours vanishes into thin air.
+3 Gasp as all your open tabs disappear faster than you can say "I wasn't doing anything!"
+4) Be amazed when a predetermined (and totally innocent) tab pops up, making it look like you were doing something entirely different.
 
 Made by Doomers-cpp
 Please note that this Chrome extension is for personal use only and is not allowed to be used for any other purposes. Redistribution or commercial use of this extension is strictly prohibited. The extension is currently under review and pending approval from the Chrome Web Store. By using this extension, you agree to these terms and conditions.
