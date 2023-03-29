@@ -1,0 +1,31 @@
+{
+  "manifest_version": 3,
+  "name": "Panic Button",
+  "version": "1.0",
+  "description": "Panic Button is a browser extension that allows you to quickly close all tabs and clear your browsing history.(last 24 hours) :)",
+  "permissions": ["browsingData", "tabs", "commands", "storage", "activeTab"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icon16.png",
+      "48": "icon48.png",
+      "128": "icon128.png"
+    }
+  },
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  },
+  "commands": {
+    "panic": {
+      "suggested_key": {
+        "default": "Ctrl+Shift+Z"
+      },
+      "description": "Activate Panic Button"
+    }
+  }
+}
